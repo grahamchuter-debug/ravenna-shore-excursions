@@ -1,0 +1,15 @@
+{
+  // WORKERS STATIC ASSETS — Ravenna Shore Excursions
+  // Custom Domain routes intentionally omitted until deployment approval.
+  // After approval, add apex custom_domain for ravennashoreexcursions.com only.
+  // www → apex is handled by Cloudflare Redirect Rules (not a second Worker origin).
+  "name": "ravenna-shore-excursions",
+  "compatibility_date": "2026-07-17",
+  "workers_dev": true,
+  "preview_urls": true,
+  "assets": {
+    "directory": "./out",
+    "html_handling": "force-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

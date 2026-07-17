@@ -1,0 +1,10 @@
+# Path aliases → canonical routes (Workers Static Assets: relative URLs only).
+# Host-level www/http → apex redirects: Cloudflare Redirect Rules + Always Use HTTPS.
+# Do not add absolute https:// host rules here.
+
+/ship-schedules /ravenna-cruise-schedule/ 301
+/ship-schedules/ /ravenna-cruise-schedule/ 301
+/ship-schedules/ravenna /ravenna-cruise-schedule/ 301
+/ship-schedules/ravenna/ /ravenna-cruise-schedule/ 301
+/ravenna-cruise-ship-schedule /ravenna-cruise-schedule/ 301
+/ravenna-cruise-ship-schedule/ /ravenna-cruise-schedule/ 301

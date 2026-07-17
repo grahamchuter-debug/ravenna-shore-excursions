@@ -1,0 +1,23 @@
+{
+  "generated": "2026-07-17T12:26:35.611Z",
+  "site": "ravennashoreexcursions.com",
+  "files": [
+    "hero-home.jpg",
+    "mosaics.jpg",
+    "san-vitale.jpg",
+    "og-default.jpg",
+    "historic-centre.jpg",
+    "cruise-port.jpg",
+    "porto-corsini.jpg",
+    "bologna.jpg",
+    "walking.jpg",
+    "san-marino.jpg",
+    "photography.jpg",
+    "venice.jpg",
+    "coast.jpg",
+    "compare.jpg",
+    "food.jpg",
+    "family.jpg"
+  ],
+  "note": "Master images sourced from Wikimedia Commons (CC-licensed). See scripts/download-ravenna-images.mjs."
+}
