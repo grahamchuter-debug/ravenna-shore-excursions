@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-09-18T07:43:29.264Z",
+  "wave": "wave-1d",
+  "port": "ravenna",
+  "destSlug": "ravenna",
+  "displayName": "Ravenna",
+  "counts": {
+    "2026": 19,
+    "2027": 42,
+    "2028_discovery": 10,
+    "2028_published": 0,
+    "public_total": 60,
+    "h1_2026": 0
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "HOLD",
+    "reason": "validated 2 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+    "validatedCount": 2,
+    "tier2PrincessKeys": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 19,
+      "arrival": 13,
+      "departure": 1,
+      "both": 1,
+      "neither": 6,
+      "pctBoth": 5.3
+    },
+    "2027": {
+      "total": 42,
+      "arrival": 31,
+      "departure": 11,
+      "both": 11,
+      "neither": 11,
+      "pctBoth": 26.2
+    },
+    "2028": {
+      "total": 0,
+      "arrival": 0,
+      "departure": 0,
+      "both": 0,
+      "neither": 0,
+      "pctBoth": 0
+    }
+  },
+  "contaminationPurged": [],
+  "wireSchedulesTs": null
+}
