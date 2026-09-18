@@ -1,0 +1,116 @@
+{
+  "port": "ravenna",
+  "destSlug": "ravenna",
+  "year": 2028,
+  "wave": "wave-1c",
+  "note": "Internal CT discovery — not public without validation",
+  "total": 10,
+  "filterDecision": "HOLD",
+  "filterReason": "validated 2 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+  "validatedCount": 2,
+  "tier2KeysApplied": [],
+  "calls": [
+    {
+      "date": "2028-04-07",
+      "ship": "Explora V",
+      "cruiseLine": "Explora Journeys",
+      "arrival": "",
+      "departure": "",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary",
+      "publishable": false
+    },
+    {
+      "date": "2028-05-06",
+      "ship": "Silver Ray",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "callType": "Port of call",
+      "timeInPort": "10h",
+      "notes": "port time not found in itinerary",
+      "publishable": false
+    },
+    {
+      "date": "2028-05-17",
+      "ship": "Oceania Marina",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "callType": "Port of call",
+      "timeInPort": "10h",
+      "publishable": false
+    },
+    {
+      "date": "2028-06-19",
+      "ship": "Silver Shadow",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:30",
+      "departure": "18:00",
+      "callType": "Port of call",
+      "timeInPort": "9h 30m",
+      "publishable": false
+    },
+    {
+      "date": "2028-06-22",
+      "ship": "Silver Dawn",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "callType": "Port of call",
+      "timeInPort": "10h",
+      "publishable": false
+    },
+    {
+      "date": "2028-07-31",
+      "ship": "Silver Dawn",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "callType": "Port of call",
+      "timeInPort": "9h",
+      "publishable": false
+    },
+    {
+      "date": "2028-09-04",
+      "ship": "Europa 2",
+      "cruiseLine": "Hapag Lloyd",
+      "arrival": "08:00",
+      "departure": "24:00",
+      "callType": "Port of call",
+      "timeInPort": "16h",
+      "publishable": false
+    },
+    {
+      "date": "2028-09-11",
+      "ship": "Silver Ray",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "callType": "Port of call",
+      "timeInPort": "10h",
+      "publishable": false
+    },
+    {
+      "date": "2028-09-23",
+      "ship": "Silver Shadow",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "callType": "Port of call",
+      "timeInPort": "10h",
+      "notes": "port time not found in itinerary",
+      "publishable": false
+    },
+    {
+      "date": "2028-10-02",
+      "ship": "Oceania Marina",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "08:00",
+      "departure": "17:00",
+      "callType": "Port of call",
+      "timeInPort": "9h",
+      "publishable": false
+    }
+  ]
+}

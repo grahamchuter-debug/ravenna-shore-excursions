@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-09-18T07:24:51.200Z",
+  "wave": "wave-1c",
+  "port": "ravenna",
+  "destSlug": "ravenna",
+  "displayName": "Ravenna (Porto Corsini)",
+  "portIdentityNote": "Ravenna ≠ Venice — Porto Corsini only when source-supported",
+  "minPublishRows": 15,
+  "counts": {
+    "2026": 19,
+    "2027": 42,
+    "2028_discovery": 10,
+    "2028_published": 0,
+    "public_total": 60
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "HOLD",
+    "reason": "validated 2 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+    "validatedCount": 2,
+    "tier2AzamaraVenice": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 19,
+      "arrival": 13,
+      "departure": 1,
+      "both": 1,
+      "neither": 6,
+      "pctBoth": 5.3
+    },
+    "2027": {
+      "total": 42,
+      "arrival": 31,
+      "departure": 11,
+      "both": 11,
+      "neither": 11,
+      "pctBoth": 26.2
+    },
+    "2028": {
+      "total": 0,
+      "arrival": 0,
+      "departure": 0,
+      "both": 0,
+      "neither": 0,
+      "pctBoth": 0
+    }
+  },
+  "berthPolicy": "unknown — no generic terminals published",
+  "contaminationPurged": [],
+  "wireSchedulesTs": null,
+  "placeholderPurged": true
+}
